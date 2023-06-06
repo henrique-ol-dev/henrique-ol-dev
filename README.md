@@ -28,7 +28,7 @@
 
   <h3> :earth_americas: &nbsp;Find me: </h3> 
 
-[![Linkedin: Vinícius Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/viniciusmirandadev](https://www.linkedin.com/in/henrique-oliveira-118081211/))](https://www.linkedin.com/in/viniciusmirandadev)
+[![Linkedin: Vinícius Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-oliveira-118081211/)](https://www.linkedin.com/in/henrique-oliveira-118081211/)
 
 
 ![henrique-ol-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-ol-dev&show_icons=true&theme=radical)
