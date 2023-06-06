@@ -26,7 +26,7 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-  <h3> :earth_americas: &nbsp;Find me: </h3> 
+  <h3> :earth_americas: &nbsp;Encontre-me: </h3> 
 
 [![Linkedin: Vinícius Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-oliveira-118081211/)](https://www.linkedin.com/in/henrique-oliveira-118081211/)
 
